@@ -1,8 +1,12 @@
 team: Tigers
 
-manager: Kenneth
+manager: Brenda
 
+<<<<<<< HEAD
 coach: Brenda
+=======
+coach: Ruth
+>>>>>>> conflict
 
 members:
 - Linda
@@ -10,4 +14,8 @@ members:
 - David
 - George
 - Tyler
+<<<<<<< HEAD
 - Kim
+=======
+- Park
+>>>>>>> conflict
